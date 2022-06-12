@@ -1,1 +1,1 @@
-# Hares-and-Hounds
+# Hares-and-Hounds-Game
